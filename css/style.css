@@ -1,0 +1,41 @@
+body {
+    /* background-image: url(../images/jj.jpg); */
+    /* background-repeat: no-repeat; */
+    /* background-clip: margin-box; */
+    /* background-origin: border-box */
+    /* background: linear-gradient(to right, green) */
+    /* box-shadow: 10px 3px red; */
+}
+
+html,
+body,
+.container {
+    height: 100%;
+    width: 100%;
+    padding: 0%;
+    margin: 0%;
+}
+
+
+/* .head {
+    /* box-shadow: 5px 1px red; */
+
+
+/* width: 500px;
+height: 500px;
+border: 1px solid red;
+
+} */
+
+
+/* .add-class .add {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+
+.remove-class .remove {
+    height: 100px;
+    width: 100px;
+    background-color: blanchedalmond;
+} */
